@@ -1,0 +1,86 @@
+/* //////// Lobster-Regular (for Logo) ///////// */
+
+@font-face {
+    font-family: Lobster-Regular;
+    src: url(../fonts/Lobster-Regular.ttf);
+}
+
+/* //////// Poppins Family ///////// */
+
+@font-face {
+    font-family: Poppins-Thin;
+    src: url(../fonts/Poppins/Poppins-Thin.ttf);
+}
+
+@font-face {
+    font-family: Poppins-Regular;
+    src: url(../fonts/Poppins/Poppins-Regular.ttf);
+}
+
+@font-face {
+    font-family: Poppins-Medium;
+    src: url(../fonts/Poppins/Poppins-Medium.ttf);
+}
+
+@font-face {
+    font-family: Poppins-Black;
+    src: url(../fonts/Poppins/Poppins-Black.ttf);
+}
+
+@font-face {
+    font-family: Poppins-Bold;
+    src: url(../fonts/Poppins/Poppins-Bold.ttf);
+}
+
+/* X X X X X X Poppins Family X X X X X X */
+
+
+
+
+/* //////// Raleway Family ///////// */
+
+@font-face {
+    font-family: Raleway-Thin;
+    src: url(../fonts/Releway/Raleway-Thin.ttf);
+}
+
+@font-face {
+    font-family: Raleway-Regular;
+    src: url(../fonts/Releway/Raleway-Regular.ttf);
+}
+
+@font-face {
+    font-family: Raleway-Medium;
+    src: url(../fonts/Releway/Raleway-Medium.ttf);
+}
+
+@font-face {
+    font-family: Raleway-Bold;
+    src: url(../fonts/Releway/Raleway-Bold.ttf);
+}
+
+/* X X X X X X Raleway Family X X X X X X */
+
+
+
+/* //////// Lato Family ///////// */
+
+
+@font-face {
+    font-family: Lato-Regular;
+    src: url(../fonts/Lato/Lato-Regular.ttf);
+}
+
+
+@font-face {
+    font-family: Lato-Black;
+    src: url(../fonts/Lato/Lato-Black.ttf);
+}
+
+
+@font-face {
+    font-family: Lato-Bold;
+    src: url(../fonts/Lato/Lato-Bold.ttf);
+}
+
+/* X X X X X X Lato Family X X X X X X */

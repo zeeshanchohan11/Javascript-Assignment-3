@@ -1,0 +1,78 @@
+.heading {
+    text-align: center;
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 28px;
+    text-decoration: underline;
+    margin-bottom: 50px;
+}
+
+body {
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+.mobile-container {
+    width: 100%;
+    height: 350px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.mobile-container div img {
+    width: 120px;
+    cursor: pointer;
+}
+
+
+/* Task # 03 */
+
+.t3-table {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 0px 4px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.t3-table th,
+td {
+    padding: 10px 50px;
+}
+
+.t3-table button {
+    background-color: red;
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 5px 12px;
+    cursor: pointer;
+}
+
+
+/* Task # 05 */
+
+.counter {
+    text-align: center;
+    margin: 50px 0px;
+    font-size: 52px;
+}
+
+.counter button {
+    margin: 0 20px;
+    padding: 3px 30px;
+    font-size: 32px;
+    background-color: rgb(204, 204, 204);
+    color: #000;
+    border: none;
+    outline: none;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+.counter button:hover {
+    background-color: blue;
+    color: #fff;
+}
